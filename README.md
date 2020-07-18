@@ -155,11 +155,6 @@
 <li>26 December, a faction of&nbsp;<a title="Scottish people" href="https://en.wikipedia.org/wiki/Scottish_people">Scottish</a>&nbsp;<a title="Covenanters" href="https://en.wikipedia.org/wiki/Covenanters">Covenanters</a>&nbsp;sign&nbsp;<a title="Engagers" href="https://en.wikipedia.org/wiki/Engagers">The Engagement</a>&nbsp;with&nbsp;<a title="Charles I of England" href="https://en.wikipedia.org/wiki/Charles_I_of_England">Charles I</a></li>
 </ul>
 <h2><span id="The_Second_English_Civil_War" class="mw-headline">The Second English Civil War</span></h2>
-<dl>
-<dd>
-<div class="hatnote navigation-not-searchable">Main article:&nbsp;<a title="Second English Civil War" href="https://en.wikipedia.org/wiki/Second_English_Civil_War">Second English Civil War</a></div>
-</dd>
-</dl>
 <h3><span id="Events_of_1648" class="mw-headline">Events of 1648</span></h3>
 <ul>
 <li>8 May,&nbsp;<a class="mw-redirect" title="Battle of St. Fagans" href="https://en.wikipedia.org/wiki/Battle_of_St._Fagans">Battle of St. Fagans</a></li>
@@ -191,11 +186,6 @@
 <li>October, first publication of&nbsp;<em><a title="Eikonoklastes" href="https://en.wikipedia.org/wiki/Eikonoklastes">Eikonoklastes</a></em>&nbsp;by&nbsp;<a title="John Milton" href="https://en.wikipedia.org/wiki/John_Milton">John Milton</a>, a rebuttal of&nbsp;<em><a title="Eikon Basilike" href="https://en.wikipedia.org/wiki/Eikon_Basilike">Eikon Basilike</a></em></li>
 </ul>
 <h2><span id="Third_English_Civil_War" class="mw-headline">Third English Civil War</span></h2>
-<dl>
-<dd>
-<div class="hatnote navigation-not-searchable">Main article:&nbsp;<a title="Third English Civil War" href="https://en.wikipedia.org/wiki/Third_English_Civil_War">Third English Civil War</a></div>
-</dd>
-</dl>
 <h3><span id="Events_of_1650" class="mw-headline">Events of 1650</span></h3>
 <ul>
 <li>1 May,&nbsp;<a title="Treaty of Breda (1650)" href="https://en.wikipedia.org/wiki/Treaty_of_Breda_(1650)">Treaty of Breda</a>&nbsp;signed between&nbsp;<a title="Charles II of England" href="https://en.wikipedia.org/wiki/Charles_II_of_England">Charles II</a>&nbsp;and the Scottish&nbsp;<a title="Covenanters" href="https://en.wikipedia.org/wiki/Covenanters">Covenanters</a></li>
